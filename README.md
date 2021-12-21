@@ -5,8 +5,6 @@ All code written in Java
 
 Most code not commented nor optimized but good enough to AC
 
-[DMOJ Profile](https://dmoj.ca/user/AZinitials)
-
 ## Problems in progress
 
 CCC '09 J4 - Signage
